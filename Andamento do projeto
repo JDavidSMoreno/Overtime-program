@@ -1,0 +1,19 @@
+17/08/2024
+
+Meta do dia
+
+- Desenvolver um menu Funcional onde todas as opções do programa estejam inclusas 
+(Podendo se repartir em varios menu, ou seja)
+menu 1 - Entrada principal
+1 - Entrar como funcionario
+2 - Cadastrar funcionario 
+3 - Sair
+
+
+- Desenvolver o algoritmo que cadastre uma base de usuarios utilizando arquivos de texto para salvar a informação dos mesmos(
+    entendese tambem criar
+    - Uma serie de classes e objetos bem elaborados onde podamos armazenar indivdualmente os dados dos usuarios
+    - Uma serie de metodos que permitam a manipulação dos dados dos usuarios
+    - Desenvolver o algoritmo que permita a autenticação dos usuarios
+    - Desenvolver o algoritmo que crie, armazene e altere os dados dos usuarios quando necessario
+)

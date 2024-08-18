@@ -1,0 +1,18 @@
+/*
+faça um programa que calcule horas extra seguindo as seguintes necessidades
+O sistema deve oferecer a opção de cadastrar Funcionarios para verificar horas ja prontas
+O sitema precisa oferecer um menu para escolher verificar um usuario cadastrado ou cadastrar um
+O Sistema deve conseguir armazenar os dados dos funcionarios de forma segura
+O Sistema deve oferecer ao usuario opções para configuração dos usuarios
+O Sistema deve oferecer opções para cada usuario onde 
+O Usuario consiga inserir o valor da sua hora extra
+O Usuario consiga visualizar o valor da sua hora extra
+O Sistema deve oferecer opções para cada usuario onde
+O Usuario consiga inserir a quantidade de horas extras mensais
+O Sistema deve oferecer opções para cada usuario onde
+O Usuario consiga visualizar a quantidade de horas extras mensais
+O Sistema deve oferecer opções modificar as respostas ja feitas
+O Sistema deve oferecer opções para cada usuario onde
+O Usuario consiga excluir as respostas ja feitas
+o Sistema Deve oferecer ao usuario a opçao para calcular o dinheiro que ira ganhar no total pelas horas
+*/
